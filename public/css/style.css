@@ -207,6 +207,7 @@ a:focus,
 .intro {
   display: table;
   width: 100%;
+  height: 100%;
   padding: 0;
   background: url(../img/intro-bg.jpg) center center no-repeat;
   background-color: #e5e5e5;
@@ -216,6 +217,7 @@ a:focus,
   -o-background-size: cover;
 }
 .intro .overlay {
+  height: 100%;
   background: rgba(0, 0, 0, 0.2);
 }
 .intro h1 {
@@ -262,7 +264,7 @@ header .intro-text {
 }
 /* About Section */
 #about {
-  padding: 100px 0;
+  padding: 290px 0;
 }
 #about h3 {
   font-size: 22px;
@@ -309,12 +311,12 @@ header .intro-text {
 }
 /* Services Section */
 #services {
-  padding: 100px 0;
+  padding: 130px 0;
   background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
   color: #fff;
 }
 #services .service-desc {
-  margin: 10px 10px 20px;
+  margin: 15x 15px 20px;
 }
 #services h2 {
   color: #fff;
@@ -459,7 +461,7 @@ header .intro-text {
 }
 /* Contact Section */
 #contact {
-  padding: 100px 0 60px;
+  padding: 190px 0 60px;
   background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
   color: rgba(255, 255, 255, 0.75);
 }

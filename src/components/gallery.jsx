@@ -6,10 +6,15 @@ export const Gallery = (props) => {
     <div id="portfolio" className="text-center">
       <div className="container">
         <div className="section-title">
-          <h2>Gallery</h2>
+          <h2>Galeria</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+            Explora la galería de imágenes de nuestros clientes anteriores y
+            sumérgete en la inspiración. Desde eventos empresariales hasta
+            productos destacados, cada imagen es unica.{" "}
+            <b>
+              {" "}
+              ¿Estás listo para que tu proyecto sea el próximo en destacar?{" "}
+            </b>
           </p>
         </div>
         <div className="row">
