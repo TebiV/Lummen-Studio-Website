@@ -1,7 +1,7 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "LUMMEN STUDIO",
+    "paragraph": "¡Bienvenidos a nuestro estudio de fotografía especializado en imágenes de stock! Capturamos la esencia de tus productos para que destaquen en el mercado. Confía en nosotros para llevar tu marca al siguiente nivel visual."
   },
   "About": {
     "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
@@ -67,34 +67,24 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-camera",
+      "name": "Fotografia de estudio",
+      "text": "¡Tu producto protagonista! Envíanoslo o visítanos para fotografias que sobresalgan."
     },
     {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-solid fa-users",
+      "name": "Fotografia de eventos",
+      "text": "¡Destaca tus eventos empresariales! Capturamos momentos memorables con estilo y profesionalismo."
     },
     {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-bolt",
+      "name": "Alquiler de estudio",
+      "text": "¡Alquila nuestro estudio! Crea producciones excepcionales en un espacio inspirador y bien equipado."
     },
     {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-solid fa-truck",
+      "name": "Alquiler de equipos",
+      "text": "¡Equipo de calidad al alcance! Alquila nuestro equipo para tus proyectos, garantizando resultados excepcionales."
     }
   ],
   "Testimonials": [
@@ -152,11 +142,11 @@
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
+    "address": "El Chocón 527, Villa María, Córdoba, Argentina ",
+    "phone": "+54 353 419 6677",
+    "email": "lummenstudio@gmail.com",
+    "whatsapp": "https://api.whatsapp.com/send/?phone=5493534196677&text&type=phone_number&app_absent=0",
+    "instagram": "https://www.instagram.com/lummen.studio/",
     "youtube": "youtube.com"
   },
   "Features": [
